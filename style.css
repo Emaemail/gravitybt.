@@ -58,11 +58,11 @@
     text-decoration: none;
     color: white;
 }
-#t1 ul ,#t3 ul{
+#t1 ul ,#t3 ul,#t2 ul{
     margin: 0px;
     padding: 0px;
 }
-#t1 ul li,#t3 ul li{
+#t1 ul li,#t3 ul li,#t2 ul li{
     list-style: none;
 }
 #t1 ul li a:hover, #t3 ul li a:hover {
