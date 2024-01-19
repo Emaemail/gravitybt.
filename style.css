@@ -69,3 +69,11 @@
     color: #aaa;
     transition: 0.5s;
 }
+
+h3 {
+    margin-bottom: 0px;
+}
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
